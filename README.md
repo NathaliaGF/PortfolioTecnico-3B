@@ -1,6 +1,8 @@
 # PortfolioTecnico-3B
 Nathalia Gomes Felipe
+
 Desenvolvedora de Sistemas
+
 nathalia_g_felipe@estudante.sc.senai.br
 
 COMPETÊNCIAS
