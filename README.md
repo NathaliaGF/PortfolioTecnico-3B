@@ -3,7 +3,7 @@ Nathalia Gomes Felipe
 
 Desenvolvedora de Sistemas
 
-nathalia_g_felipe@estudante.sc.senai.br
+nathalia30_@hotmail.com
 
 COMPETÊNCIAS
 
