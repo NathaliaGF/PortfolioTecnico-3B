@@ -1,3 +1,10 @@
+## códigos portifólio
+
+* [acesso ao Cassino] (PortfolioTecnico-3B/Desenvolvimento_Sistemas/)
+* [acesso ao programação de aplicativo] (PortfolioTecnico-3B/Programação_De_Aplicativos/)
+* [acesso a apresentação final da matéria da Maria] (PortfolioTecnico-3B/BancoDeDados/)
+
+
 # PortfolioTecnico-3B
 Nathalia Gomes Felipe
 
