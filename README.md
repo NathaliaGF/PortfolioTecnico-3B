@@ -18,11 +18,14 @@ Programadora com conhecimentos e experiências em linguagem JAVA, C#, PYTHON e H
 
 EXPERIÊNCIA
 
-FIESC - Gestão de Administração e assistente administrativa
-08/03 DE 2021 - dias atuais
+FIESC - Gestão de Administração/Assistente administrativa
+08/03 DE 2021 - 15/12/2021
+
+SES - Digitadora 10/05/2022 - dias atuais
 
 EDUCAÇÃO
 
-Sesi Senai, São José - Ensino médio 
-Fevereiro DE 2020 - dias atuais
+SENAI - Ensino médio completo
+SENAI - Análise e Desenvolvimento de Sistemas
+SENAI - Aprendizagem Industrial 
 
